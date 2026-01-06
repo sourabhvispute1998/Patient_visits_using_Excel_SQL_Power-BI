@@ -1,0 +1,11 @@
+visit_id,patient_id,department,visit_date,billing_amount,payment_status,doctor_name
+1,P001,Cardiology,01-01-2024,25000,Paid,Dr. Mehta
+2,P002,Orthopedics,01-05-2024,18000,Pending,Dr. Rao
+3,P003,Neurology,01-12-2024,32000,Paid,Dr. Sharma
+4,P004,Cardiology,15-02-2024,27000,Paid,Dr. Mehta
+5,P005,Orthopedics,20-02-2024,15000,Paid,Dr. Rao
+6,P006,Neurology,25-02-2024,29000,Pending,Dr. Sharma
+7,P007,Cardiology,03-02-2024,26000,Paid,Dr. Mehta
+8,P008,Orthopedics,03-10-2024,17000,Paid,Dr. Rao
+9,P009,Neurology,18-03-2024,31000,Paid,Dr. Sharma
+10,P010,Cardiology,28-03-2024,24000,Pending,Dr. Mehta
